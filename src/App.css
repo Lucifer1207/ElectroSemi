@@ -1,0 +1,136 @@
+.App {
+  text-align: center;
+  background-color: grey;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.x{
+  padding-top: 300px;
+  color:burlywood;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  -webkit-text-stroke:1.2 black;
+}
+@keyframes example {
+  from {background-color: blue;}
+  to {background-color: cyan;}
+}
+.xy{
+  background-color:black;
+  font-size: large;
+  width:350px;
+  height:60px;
+  color:burlywood;
+  border-radius: 5%;
+  
+}
+.xyz{
+  padding-top: 2%;
+  padding-left: 37%;
+  width: 20%;
+ 
+}
+
+.div{
+  
+    background-image:linear-gradient(45deg,
+    rgba(13, 27, 131, 0.969),
+    rgba(8, 54, 98, 0.453)),
+     url(
+"https://png.pngtree.com/thumb_back/fw800/background/20200118/pngtree-circuit-board-pattern-isolated-on-black-background-image_328066.jpg");
+}
+
+h1{
+  font-size: 50px;
+}
+
+.u{
+  box-shadow: 8px 8px  black;
+}
+
+.col{
+  color: burlywood;
+}
+
+
+
+.section-header h3 {
+  font-size: 55px;
+  color: burlywood;
+  text-align: center;
+  font-weight: 500;
+  position: relative;
+}
+
+.section-header p {
+  text-align: center;
+  margin: auto;
+  font-size: 15px;
+  padding-bottom: 60px;
+  color: burlywood;
+  width: 50%;
+}
+
+#clients {
+  padding: 60px 0;
+  
+}
+#clients .clients-wrap {
+  margin-bottom: 100px;
+}
+
+#clients .client-logo {
+  padding: 64px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: hidden;
+  background: #fff;
+  height: 160px;
+}
+
+#clients img {
+  transition: all 0.4s ease-in-out;
+}
+
