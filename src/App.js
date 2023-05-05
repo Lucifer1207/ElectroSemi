@@ -32,7 +32,7 @@ function App() {
       <Navbar fashion={toggleMode} theme={modeBt}/>
       <BrowserRouter>
        <Routes>
-       <Route path="/" element={<Img/>}></Route>
+       <Route path="/home" element={<Img/>}></Route>
        <Route path="/Product" element={<Product/>}></Route>    
        
        <Route path="/Ourclient" element={<Ourclient/>}></Route>       
