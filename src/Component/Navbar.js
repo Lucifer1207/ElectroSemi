@@ -5,7 +5,7 @@ export default function Navbar(props) {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/home"><h2 className='col'><center>ElectroSemi India</center></h2></a>
+    <a className="navbar-brand" href="https://lucifer1207.github.io/ElectroSemiIndia/"><h2 className='col'><center>ElectroSemi India</center></h2></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
@@ -17,7 +17,7 @@ export default function Navbar(props) {
           
         </li>
         <li className="nav-item dropdown">
-         <button className='btn btn '><a className='btn btn col' href="/product">Products</a></button>
+         <button className='btn btn '><a className='btn btn col' href="https://github.com/Lucifer1207/ElectroSemiIndia/blob/master/src/Component/Product.js">Products</a></button>
          <button className='btn btn col'>About us</button>
          <button className='btn btn col'>Contact Us</button>
          <button className='btn btn col'><a className='btn btn col' href="/Ourclient">Our Clients</a></button>
