@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ElectroSemi/static/css/main.e4bec9bd.css",
+    "main.js": "/ElectroSemi/static/js/main.6bcf30c3.js",
+    "static/js/787.ceba7239.chunk.js": "/ElectroSemi/static/js/787.ceba7239.chunk.js",
+    "static/media/BackGround.jpg": "/ElectroSemi/static/media/BackGround.ffa2068f849536264276.jpg",
+    "index.html": "/ElectroSemi/index.html",
+    "main.e4bec9bd.css.map": "/ElectroSemi/static/css/main.e4bec9bd.css.map",
+    "main.6bcf30c3.js.map": "/ElectroSemi/static/js/main.6bcf30c3.js.map",
+    "787.ceba7239.chunk.js.map": "/ElectroSemi/static/js/787.ceba7239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bec9bd.css",
+    "static/js/main.6bcf30c3.js"
+  ]
+}
