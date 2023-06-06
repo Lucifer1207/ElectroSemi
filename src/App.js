@@ -1,6 +1,7 @@
 import './App.css';
 import Product from './Component/Product';
 import Navbar from './Component/Navbar';
+import About from './Component/About';
 import Img from './Component/Img';
 import {
   BrowserRouter,
@@ -35,7 +36,8 @@ function App() {
        <Route path="/" element={<Img/>}></Route>
        <Route path="/Product" element={<Product/>}></Route>    
        
-       <Route path="/Ourclient" element={<Ourclient/>}></Route>       
+       <Route path="/Ourclient" element={<Ourclient/>}></Route>
+       <Route path="/About" element={<About/>}></Route>       
   
        </Routes>
        </BrowserRouter>

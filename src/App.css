@@ -134,3 +134,22 @@ h1{
   transition: all 0.4s ease-in-out;
 }
 
+.ab{
+  background-image:linear-gradient(45deg,
+    rgba(13, 27, 131, 0.969),
+    rgba(8, 54, 98, 0.453)),
+     url(
+"BackGround.jpg");
+padding-left: 35%;
+
+padding-top: 12%;
+
+}
+.ex{
+  padding-top: 25%;
+}
+
+.bt{
+  margin-top: 40px;
+  box-shadow: 4px 4px 4px 4px black;
+}

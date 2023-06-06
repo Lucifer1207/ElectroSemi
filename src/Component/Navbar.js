@@ -18,7 +18,7 @@ export default function Navbar(props) {
         </li>
         <li className="nav-item dropdown">
          <button className='btn btn '><a className='btn btn col' href="/product">Products</a></button>
-         <button className='btn btn col'>About us</button>
+         <button className='btn btn col'><a className='btn btn col' href="/About">About us</a></button>
          <button className='btn btn col'>Contact Us</button>
          <button className='btn btn col'><a className='btn btn col' href="/Ourclient">Our Clients</a></button>
         </li>
